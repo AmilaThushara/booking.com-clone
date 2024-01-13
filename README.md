@@ -1,3 +1,4 @@
-![Screenshot 2024-01-04 120840](https://github.com/AmilaThushara/booking.com-clone/assets/80099554/06658e00-5bc5-4425-a419-d48db98bc6fa)
-![Screenshot 2024-01-04 120905](https://github.com/AmilaThushara/booking.com-clone/assets/80099554/60346bd1-9313-4970-bd51-8f3acc3447c2)
-![Screenshot 2024-01-04 121017](https://github.com/AmilaThushara/booking.com-clone/assets/80099554/cd0b2750-ce4d-48bf-9c8c-b57ff5c4d2c9)
+
+![Screenshot_1705157101](https://github.com/AmilaThushara/booking.com-clone/assets/80099554/b13f3afb-c88b-471b-82c8-4d3610aaa98e)
+![Screenshot_1705157097](https://github.com/AmilaThushara/booking.com-clone/assets/80099554/dcd7acb9-2f44-4bcd-a192-67c92e321434)
+![Screenshot_1705157216](https://github.com/AmilaThushara/booking.com-clone/assets/80099554/3bba5001-fcc4-4cc6-b7a6-58fb8f2739c9)
