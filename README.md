@@ -1,6 +1,29 @@
 
-![Screenshot_1705157097](https://github.com/AmilaThushara/booking.com-clone/assets/80099554/2d565abf-ffbd-4239-b78e-802ed7c619cc)
 
-![Screenshot_1705157101](https://github.com/AmilaThushara/booking.com-clone/assets/80099554/8bd4ac5a-4187-401c-9e5a-3c639446887b)
+![Untitled-1](https://github.com/AmilaThushara/booking.com-clone/assets/80099554/2373b04a-fcdc-466c-96b4-25c50cd1c692)
 
-![Screenshot_1705157216](https://github.com/AmilaThushara/booking.com-clone/assets/80099554/7aa8fcec-a330-48d7-9aed-ef08c0d91e95)
+
+## Get Started
+
+install dev dependencies
+
+### `npm install` or `yarn install`
+
+## Then
+
+Run The app
+
+### `npm start` or `yarn start`
+
+Runs your app in development mode.
+
+Open it in the [Expo app](https://expo.io) on your phone to view it. It will reload if you save edits to your files, and you will see build errors and logs in the terminal.
+
+#### `npm run ios` or `yarn run ios`
+
+Like `npm start` / `yarn start`, but also attempts to open your app in the iOS Simulator if you're on a Mac and have it installed.
+
+#### `npm run android` or `yarn run android`
+
+
+
